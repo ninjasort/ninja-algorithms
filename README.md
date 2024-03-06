@@ -335,11 +335,3 @@ _Some tools that can help you in the learning of algorithms_
 
 - [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
-
-## License
-
-And for the sake of copyleft, here's our license:
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
