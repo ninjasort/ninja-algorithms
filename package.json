@@ -1,0 +1,19 @@
+{
+  "name": "ninja-algorithms",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.",
+  "main": "README.md",
+  "scripts": {
+    "lint": "eslint src/ tests/",
+    "test": "yarn lint && mocha tests/**/*.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.10.0",
+    "mocha": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
